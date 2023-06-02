@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Thirdpersondll
 - 👀 I’m interested in learning how to code :)
-- 🌱 I’m currently learning how to make the game better
+- 🌱 I’m currently learning how to make the games
+- better
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me Email (slav_user187@gmail.com)
 
